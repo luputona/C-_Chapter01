@@ -129,6 +129,10 @@
     <ClCompile Include="RefArrElem.cpp" />
     <ClCompile Include="Referen.cpp" />
     <ClCompile Include="RefPtr.cpp" />
+    <ClCompile Include="RefReturnOne.cpp" />
+    <ClCompile Include="RefReturnThree.cpp" />
+    <ClCompile Include="RefReturnTwo.cpp" />
+    <ClCompile Include="RefSwap.cpp" />
     <ClCompile Include="SimpleAAder.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="UsingDcl1.cpp" />

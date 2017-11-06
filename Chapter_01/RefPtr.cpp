@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void main()
+void main20()
 {
 	int num = 12;
 	int *ptr = &num;
